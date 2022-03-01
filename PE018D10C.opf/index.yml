@@ -1,0 +1,132 @@
+id: ba53beb0bcd642f68f1fc90fc91e71a3
+annotation_type: index
+revision: '00001'
+annotations:
+  5a6894c18108494396c057b6da9bd8fc:
+    work_id: W99A28955
+    span:
+      vol: CIII_XIV. General Characteristics Of The Buddha’s Properties
+      start: 0
+      end: 521
+  3704e0e3e0664390a2d23950c5beb2ff:
+    work_id: W4FC220AD
+    span:
+      vol: CIII_XV. 64 Properties of the Buddha
+      start: 0
+      end: 5157
+  fd5dce3cce924519b56f3e0f6ebc8df7:
+    work_id: W921D9FC9
+    span:
+      vol: CII_XII. General Characteristics of the Reality Free from Pollutions
+      start: 0
+      end: 1365
+  3e442a371f004a3384f27c8d4e503dcd:
+    work_id: W97420FB7
+    span:
+      vol: CII_XIII. 8 Points on the Undefiled Reality
+      start: 0
+      end: 10056
+  e0b749e314a34240a51e8113dc458eec:
+    work_id: WF6B5BD6A
+    span:
+      vol: CIV_XVI. General Characteristics of the Acts of the Buddha
+      start: 0
+      end: 1603
+  3cc2555ede1a4a1c8269c529dda1e020:
+    work_id: W22176066
+    span:
+      vol: CIV_XVII. 9 Illustrations of the Buddha’s Acts
+      start: 0
+      end: 13932
+  c5f285c726534270b934f3d0982b7d74:
+    work_id: W18069088
+    span:
+      vol: CI_I. Introduction
+      start: 0
+      end: 7217
+  8b8f65e3a5794e5099d88d8555eab5c6:
+    work_id: W88FF054F
+    span:
+      vol: CI_II. The Jewel of the Buddha
+      start: 0
+      end: 4886
+  d0a603aef4c04f9a9bf987fba60361be:
+    work_id: W05CF3C3D
+    span:
+      vol: CI_III. The Jewel of the Doctrine
+      start: 0
+      end: 4611
+  949e95ceaec64be79dd5996f5ea217ab:
+    work_id: W33B291CB
+    span:
+      vol: CI_IV. The Jewel of the Community
+      start: 0
+      end: 3935
+  e0bafa8abe0b4bd7a25b26c389a7baf2:
+    work_id: W9AB922FF
+    span:
+      vol: CI_IX. The 9 Illustrations on the Germ Covered with Defilements
+      start: 0
+      end: 14587
+  c442d97f10354c50a6e4450f7d3ee5a4:
+    work_id: WADAEF2C5
+    span:
+      vol: CI_V. The Three Jewels as Refuges
+      start: 0
+      end: 3797
+  5bead54bf4184bb48f4a9e2fc4a0a5de:
+    work_id: W215A2F16
+    span:
+      vol: CI_VI. The Germ Of Three Jewels In Four Aspects
+      start: 0
+      end: 6822
+  b46e10a42e5d48cfacf150992e709fdf:
+    work_id: W9B742372
+    span:
+      vol: 'CI_VII. The Sermon: All Living Beings are possessed of The Matrix of the
+        Tathāgata'
+      start: 0
+      end: 760
+  baae2f7431ba4a07b5dee4d1afcfff51:
+    work_id: W48EEE8F8
+    span:
+      vol: CI_VIII. Analysis of the Germ from 10 Points of View
+      start: 0
+      end: 41826
+  856fb78af03e402a979ac922b930c6e4:
+    work_id: W196D7336
+    span:
+      vol: CI_X. The Essential Characteristics of the Matrix of the Tathāgata
+      start: 0
+      end: 5887
+  ca1d63199b91479f8d313aa2ff2a8402:
+    work_id: W6D60318B
+    span:
+      vol: CI_XI. The Purpose of Instruction
+      start: 0
+      end: 1724
+  16ec1e23a6b54f1aaa296f8222f26b86:
+    work_id: WCAAAE9B2
+    span:
+      vol: CV_XVIII. The Merits of Having Faith in the Doctrine of the Essence of
+        Buddhahood
+      start: 0
+      end: 4534
+  91bbea710219495ea3a8ec0cb5079e39:
+    work_id: WBCB9B724
+    span:
+      vol: Colophon
+      start: 0
+      end: 138
+  f6a44b6b6cbb4269bfb76ea6294c10b9:
+    work_id: WEF691E69
+    span:
+      vol: Preface
+      start: 0
+      end: 29
+  a98ea100b96546ef93d8003d9678451d:
+    work_id: WD33A9250
+    span:
+      vol: Title
+      start: 0
+      end: 48
